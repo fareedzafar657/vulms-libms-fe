@@ -1,0 +1,9 @@
+label {
+  font-weight: bold;
+  display: flex;
+  margin-bottom: 5px;
+}
+.div {
+  display: flex;
+  margin-bottom: 5px;
+}
